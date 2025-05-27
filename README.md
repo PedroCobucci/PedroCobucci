@@ -1,11 +1,10 @@
-<p align="left">
-  # 👋 Olá! Eu sou o Pedro Cobucci
-</p>
+# 👋 Olá! Eu sou o Pedro Cobucci
+
+
+Sou apaixonado por tecnologia e resolução de problemas — seja no backend de aplicações web ou conectando dispositivos no mundo IoT. Trabalho há alguns anos com desenvolvimento de software, sempre buscando criar soluções bem estruturadas, escaláveis e com impacto real.
 <p align="right">
   <img alt="UFLA" src="https://www.ufla.br/dcom/wp-content/uploads/2015/07/cropped-logo-ufla.jpg" height="35"/>
 </p>
-
-Sou apaixonado por tecnologia e resolução de problemas — seja no backend de aplicações web ou conectando dispositivos no mundo IoT. Trabalho há alguns anos com desenvolvimento de software, sempre buscando criar soluções bem estruturadas, escaláveis e com impacto real.
 
 ---
 
