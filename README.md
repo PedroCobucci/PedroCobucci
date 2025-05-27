@@ -7,7 +7,6 @@ Sou apaixonado por tecnologia e resolução de problemas — seja no backend de 
 ## 💻 O que eu faço
 
 - 🚀 **Desenvolvimento Backend Web**
-Trabalho com:
 <p align="left">
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" height="35"/>
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="35"/>
