@@ -2,16 +2,12 @@
 
 
 Sou apaixonado por tecnologia e resolução de problemas — seja no backend de aplicações web ou conectando dispositivos no mundo IoT. Trabalho há alguns anos com desenvolvimento de software, sempre buscando criar soluções bem estruturadas, escaláveis e com impacto real.
-<p align="right">
-  <img alt="UFLA" src="https://www.ufla.br/dcom/wp-content/uploads/2015/07/cropped-logo-ufla.jpg" height="35"/>
-</p>
-
 ---
 
 ## 💻 O que eu faço
 
-- 🚀 **Desenvolvimento Backend Web**  
-  Trabalho com:
+- 🚀 **Desenvolvimento Backend Web**
+Trabalho com:
 <p align="left">
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" height="35"/>
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="35"/>
@@ -37,13 +33,32 @@ Sou apaixonado por tecnologia e resolução de problemas — seja no backend de 
 |----------------|----------------------------------------------|--------------------------------------------|
 | OpenModSim     | Simulador open source de redes Modbus para automação industrial | [Repositório](https://github.com/sanny32/OpenModSim) |
 
----
 
-## 🌱 No momento...
+## 🎓 Educação
 
-Estou estudando arquitetura de software e sistemas distribuídos, além de colaborar sempre que possível com projetos open source. Vamos trocar uma ideia? 😊
+<table>
+  <tr>
+    <td width="60">
+      <img alt="UFLA" src="https://www.ufla.br/dcom/wp-content/uploads/2015/07/cropped-logo-ufla.jpg" height="40"/>
+    </td>
+    <td>
+      <strong>Bacharelado em Sistemas de Informação</strong><br/>
+      Universidade Federal de Lavras (UFLA)<br/>
+      2020 – 2025
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="IPB" src="https://www.ufpb.br/aci/contents/noticias/ufpb-renova-acordo-de-cooperacao-com-instituto-politecnico-de-braganca/ipb-logo.jpg/@@images/image.jpeg" height="40"/>
+    </td>
+    <td>
+      <strong>Intercâmbio Acadêmico</strong><br/>
+      Instituto Politécnico de Bragança (Portugal)<br/>
+      Projeto técnico com foco em integração de sistemas e engenharia de software
+    </td>
+  </tr>
+</table>
 
----
 
 ## 📫 Onde me encontrar
 
