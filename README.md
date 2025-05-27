@@ -34,6 +34,13 @@ Trabalho com:
 | OpenModSim     | Simulador open source de redes Modbus para automação industrial | [Repositório](https://github.com/sanny32/OpenModSim) |
 
 
+
+## 📫 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-cobucci-r-5b1701160/)  
+
+---
+
 ## 🎓 Educação
 
 <table>
@@ -58,12 +65,5 @@ Trabalho com:
     </td>
   </tr>
 </table>
-
-
-## 📫 Onde me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-cobucci-r-5b1701160/)  
-
----
 
 > _"Build things that matter, and help others do the same."_
