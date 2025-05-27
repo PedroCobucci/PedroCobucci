@@ -1,4 +1,6 @@
-# 👋 Olá! Eu sou o Pedro Cobucci
+<p align="left">
+  # 👋 Olá! Eu sou o Pedro Cobucci
+</p>
 <p align="right">
   <img alt="UFLA" src="https://www.ufla.br/dcom/wp-content/uploads/2015/07/cropped-logo-ufla.jpg" height="35"/>
 </p>
