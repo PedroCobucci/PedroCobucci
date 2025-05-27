@@ -38,8 +38,8 @@ Trabalho com:
 
 <table>
   <tr>
-    <td width="120">
-      <img alt="UFLA" src="https://www.ufla.br/dcom/wp-content/uploads/2015/07/cropped-logo-ufla.jpg" height="100"/>
+    <td width="150">
+      <img alt="UFLA" src="https://www.ufla.br/dcom/wp-content/uploads/2015/07/cropped-logo-ufla.jpg" height="50"/>
     </td>
     <td>
       <strong>Bacharelado em Sistemas de Informação</strong><br/>
@@ -49,7 +49,7 @@ Trabalho com:
   </tr>
   <tr>
     <td>
-      <img alt="IPB" src="https://www.ufpb.br/aci/contents/noticias/ufpb-renova-acordo-de-cooperacao-com-instituto-politecnico-de-braganca/ipb-logo.jpg/@@images/image.jpeg" height="100"/>
+      <img alt="IPB" src="https://www.ufpb.br/aci/contents/noticias/ufpb-renova-acordo-de-cooperacao-com-instituto-politecnico-de-braganca/ipb-logo.jpg/@@images/image.jpeg" height="50"/>
     </td>
     <td>
       <strong>Intercâmbio Acadêmico</strong><br/>
